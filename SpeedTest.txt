@@ -1,0 +1,16 @@
+1:
+https://stackoverflow.com/questions/14200259/how-can-i-solve-r-layout-main-cannot-be-resolved-in-my-android-apps
+
+
+2:
+
+
+https://stackoverflow.com/questions/37015030/session-app-error-installing-apk/37657082#:~:text=Then%20unfortunately%20a%20gradle%20refresh,be%20frozen%20and%20need%20restart.
+
+
+
+3:
+
+
+https://developer.android.com/reference/java/lang/NullPointerException
+
